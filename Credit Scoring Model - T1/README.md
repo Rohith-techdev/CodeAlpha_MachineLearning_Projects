@@ -53,11 +53,11 @@ ________________________________________________________________________________
 
 
 ## Sample Image of Output:
-### 1. ROC Curve:
+### 1.  ROC Curve:
 
 <img width="959" height="550" alt="image" src="https://github.com/user-attachments/assets/e85b05e2-0642-4923-acaa-6e78b23c0b98" />
 
-### 2. Model:
+### 2.  Model:
 
 <img width="959" height="533" alt="image" src="https://github.com/user-attachments/assets/71c8c23f-d003-4719-b937-f3dea81e9b7d" />
 
